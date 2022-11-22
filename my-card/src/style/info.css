@@ -1,0 +1,66 @@
+.christiana-photo{
+    height: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.buttons{
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+
+}
+
+.linkedin-button, .mail-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5093E2;
+    height: 34px;
+    width:  115px;
+    border-radius: 6px;
+}
+
+.linkedin, .mail{
+   width: 16px;
+   margin-right: 10px;
+}
+.mail-button{
+    background-color: white;
+}
+
+.mail-text, .linkedin-text{
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+
+.linkedin-text{
+
+}
+
+.title, .job, .website{
+    text-align: center;
+    font-weight: 700;
+}
+
+.title{
+    margin: 15px 0 0 0;
+    color: #fff;
+}
+.job{
+    margin: 0px 0px 5px 0px;
+    line-height: 15px;
+    font-weight: 400;
+    font-size: 12.8px;
+    color: #F3BF99;
+}
+
+.website{
+margin: 7px 0px 20px 0px;
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 150%;
+color: #fff;
+}
