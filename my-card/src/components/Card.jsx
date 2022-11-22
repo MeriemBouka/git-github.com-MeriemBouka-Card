@@ -1,7 +1,7 @@
 import React from "react"
 import Info from "./Info"
 import About from "./About"
-import Intrests from "./Intrests"
+import Interests from "./Interests"
 import Footer from "./Footer"
 import "../style/card.css"
 
@@ -10,7 +10,7 @@ function Card() {
     <div className="card">
    <Info />
    <About />
-   <Intrests />
+   <Interests />
    <Footer />
     </div>
   );

@@ -1,0 +1,20 @@
+.interests-section{
+width: 78%;
+margin: auto;
+}
+.intrests-title{
+color: #F5F5F5;
+margin-bottom: 0px;
+margin-top: 15px;
+font-weight: 700;
+}
+.interests-text{
+margin-top: 5px;
+color:#DCDCDC;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+font-weight: 400;
+padding-bottom: 30px;
+
+}

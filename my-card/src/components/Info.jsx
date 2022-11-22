@@ -7,7 +7,7 @@ import mail from"../mail.png"
 export default function Info(){
     return(
         <header>
-            <img className="christiana-photo"src={photo}/>
+            <img className="profile-picture" src={photo} alt="Laura"/>
             <h1 className="title">Laura Smith</h1>
             <h5 className="job">Frontend Developper</h5>
             <h6 className="website">laurasmith.website</h6>
