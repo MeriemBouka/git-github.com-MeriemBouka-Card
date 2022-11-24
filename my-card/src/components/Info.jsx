@@ -1,8 +1,8 @@
 import React from "react"
 import "../style/info.css"
-import photo from"../christina-min.jpg"
-import linkedIn from"../linkedin.png"
-import mail from"../mail.png"
+import photo from"../assets/christina-min.jpg"
+import linkedIn from"../assets/linkedin.png"
+import mail from"../assets/mail.png"
 
 export default function Info(){
     return(
